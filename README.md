@@ -1,7 +1,7 @@
-## Olá, eu sou o Nando Brandão
-
-- 🌱 Estudando: Spring
-- 💾 Desenvolvendo: QuickAttack
+## Olá, eu sou o Nando
+- 🌱 Atualmente Estudando: Spring
+- 🫡 Trabalhando: NextCode
+- 💾 Projeto Pessoal Atual: QuickAttack
 
 ### Tecnologias já utilizadas!
 <div style="display: inline_block">
