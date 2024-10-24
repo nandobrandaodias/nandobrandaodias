@@ -1,6 +1,6 @@
 ## Olá, eu sou o Nando
-- 🌱 Atualmente Estudando: Spring
-- 🫡 Trabalhando: NextCode
+- 🌱 Atualmente Estudando: Websockets e React
+- 🫡 Trabalhando como Desenvolvedor em: NextCode
 - 💾 Projeto Pessoal Atual: QuickAttack
 
 ### Tecnologias já utilizadas!
@@ -9,6 +9,7 @@
     <img align="center" alt="nando-react" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
     <img align="center" alt="nando-laravel" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
     <img align="center" alt="nando-spring" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
+    <img align="center" alt="nando-experss" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />
 </div>
 
 
