@@ -1,22 +1,21 @@
 ## Olá, eu sou o Nando
-- 🌱 Atualmente Estudando: Websockets e React
+- 🌱 Atualmente Estudando: Object Storages e Ux Design
 - 🫡 Trabalhando como Desenvolvedor em: NextCode
 - 💾 Projeto Pessoal Atual: QuickAttack
 
-### Tecnologias já utilizadas!
+### Tecnologias já utilizadas em projetos!
 <div style="display: inline_block">
-    <img align="center" alt="nando-angular" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg"/>
+    <img align="center" alt="nando-angular" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
     <img align="center" alt="nando-react" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
-    <img align="center" alt="nando-laravel" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
-    <img align="center" alt="nando-spring" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
-    <img align="center" alt="nando-experss" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />
+    <img align="center" alt="nando-laravel" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
+    <img align="center" alt="nand-nest"  height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
+    <img align="center" alt="nando-spring" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
+    <img align="center" alt="nando-experss" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />
 </div>
 
 
 ### Conhecimentos em:
   <div style="display: inline_block">
-    <img align="center" alt="nando-html" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-    <img align="center" alt="nando-css" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
     <img align="center" alt="nando-js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
     <img align="center" alt="nando-typescript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
     <img align="center" alt="nando-php" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
